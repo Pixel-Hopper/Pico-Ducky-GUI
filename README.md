@@ -1,32 +1,8 @@
-<h1 align="center">Pico - Ducky - GUI</h1>
-
-<br />
-
-<div align="center">
-
-<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/ducky.svg" width=10% height=10%>
-<img src="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/blob/main/images/raspberry.svg" width=10% height=10%>
-
-</div>
-
-<br />
-
 <div align="center">
   <strong>Portable gui that runs your python scripts on pyscript</strong>
   
   <strong>(payload tested on windows)</strong>
   
-</div>
-
-<br />
-
-<div align="center">
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
-  <img alt="GitHub license" src="https://img.shields.io/github/license/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
-  <a href="https://github.com/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI"></a>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/jaime-rodriguez-art/Pico-Ducky-Pyscript-GUI">
 </div>
 
 ## Install

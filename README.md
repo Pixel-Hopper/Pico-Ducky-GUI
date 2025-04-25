@@ -1,8 +1,5 @@
 <div align="left">
-  <strong>Portable gui that runs your python scripts on pyscript</strong>
-  
-  <strong>(payload tested on windows)</strong>
-  
+  <strong>Portable gui that runs your python scripts on pyscript (payload tested on windows)</strong>
 </div>
 
 ## Install
